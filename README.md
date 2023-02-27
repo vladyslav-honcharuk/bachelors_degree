@@ -1,3 +1,5 @@
+# Desing an development of the database for managing the department of psychotherapy and psychiatry in the hospital
+
 Course project in the Database Systems course is part of the cycle of General training of disciplines of the first (bachelor's) level of higher education degree, specialty 122 "Computer Science" in the specialization "Computer Technology in biology and medicine"
 
 The total complexity of mastering the module is 1 credit (ECTS), 30 hours.
